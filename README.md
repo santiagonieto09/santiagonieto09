@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**santiagonieto09/santiagonieto09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Santiago Nieto - Backend Developer
 
-Here are some ideas to get you started:
+Soy **Santiago Nieto**, desarrollador de backend apasionado por crear soluciones robustas y escalables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- 💻 Desarrollador Backend especializado en Java y Python
+- 🔭 Actualmente trabajando con tecnologías modernas de backend
+- 🌱 Siempre aprendiendo y mejorando mis habilidades
+
+## 🛠️ Tecnologías y Herramientas
+
+### Backend
+- **Java** - Spring Boot
+- **Python**
+
+### Frontend
+- **Angular**
+
+### IDEs
+- VS Code
+- Windsurf
+- Cursor
+
+### Herramientas de Desarrollo
+- **Git** - Control de versiones
+- **Postman** - Testing de APIs
+- **Docker** - Containerización
+- **SQL** - Bases de datos
+
+## 📫 Contacto
+- 📧 Email: santiago.nieto09@gmail.com
+- 💼 LinkedIn: [santiagonieto09](https://www.linkedin.com/in/santiagonieto09)
+
+---
+
+⚡ *"Construyendo el futuro, una línea de código a la vez"*
