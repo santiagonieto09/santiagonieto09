@@ -46,6 +46,7 @@ Soy **Santiago Nieto**, desarrollador de backend apasionado por crear soluciones
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-00ADD8?style=for-the-badge&logo=codeium&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
 
