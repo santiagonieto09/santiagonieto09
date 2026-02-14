@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Santiago Nieto
+# 👋 Hi, I'm Santiago Nieto ![](https://komarev.com/ghpvc/?username=santiagonieto09&style=flat-square&color=blue)
 ### Backend Developer
 
 <br>
@@ -66,8 +66,8 @@ Soy **Santiago Nieto**, desarrollador de backend apasionado por crear soluciones
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=santiagonieto09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagonieto09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180em"/>
 
 </div>
 
@@ -75,8 +75,8 @@ Soy **Santiago Nieto**, desarrollador de backend apasionado por crear soluciones
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=santiagonieto09&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santiagonieto09&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -84,7 +84,7 @@ Soy **Santiago Nieto**, desarrollador de backend apasionado por crear soluciones
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO_GITHUB&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=santiagonieto09&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -108,9 +108,3 @@ Soy **Santiago Nieto**, desarrollador de backend apasionado por crear soluciones
 <br>
 
 ---
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=santiagonieto09&style=for-the-badge&color=blue)
-
-</div>
