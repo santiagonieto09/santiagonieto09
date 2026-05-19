@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Santiago Nieto
-### Backend Developer
+### Full-Stack Developer | Java & Angular Specialist
 
 <br>
 
