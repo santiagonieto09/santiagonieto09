@@ -16,12 +16,7 @@
 
 ## 🚀 About Me
 
-Soy **Santiago Nieto**, desarrollador de backend apasionado por crear soluciones robustas y escalables. 
-
-- 💻 Backend Developer especializado en Java Spring Boot y Python
-- 🔭 Actualmente trabajando con tecnologías modernas de backend
-- 🌱 Siempre aprendiendo y mejorando mis habilidades
-- ⚡ *"Construyendo el futuro, una línea de código a la vez"*
+Systems Engineering, my passion is to transform ideas into robust, intuitive, and lasting web applications. I operate across the full tech stack, architecting resilient microservices and REST APIs with Java & Spring Boot, while bringing fluid user interfaces to life with Angular & TypeScript. Underpinning my technical skills is a firm belief that the best solutions emerge from collaboration. I'm a proactive communicator who thrives on analyzing different perspectives to synthesize a unified and superior technical strategy, always seeking the smartest path to solve a problem.
 
 <br>
 
