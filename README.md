@@ -62,20 +62,6 @@ Soy **Santiago Nieto**, desarrollador de backend apasionado por crear soluciones
 
 ---
 
-## 📊 GitHub Statistics
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santiagonieto09&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santiagonieto09&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-
-</div>
-
-
----
-
 ## 📫 Get In Touch
 
 <div align="center">
