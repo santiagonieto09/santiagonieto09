@@ -1,14 +1,14 @@
 <div align="center">
 
 # 👋 Hi, I'm Santiago Nieto
+
 ### Full-Stack Developer | Java & Angular Specialist
 
-<br>
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-santiago.nieto09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago.nieto09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-santiagonieto09-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagonieto09)
+![](https://komarev.com/ghpvc/?username=santiagonieto09&style=for-the-badge&color=blue)
 
-<br>
+</div>
 
 </div>
 
@@ -51,21 +51,13 @@ Systems Engineering, my passion is to transform ideas into robust, intuitive, an
 
 <div align="center">
 
-### ¿Tienes un proyecto interesante? ¡Hablemos!
+<br>
+
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago.nieto09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagonieto09)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-santiago.nieto09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago.nieto09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-santiagonieto09-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagonieto09)
 
 <br>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=santiagonieto09&style=for-the-badge&color=blue)
-
 </div>
