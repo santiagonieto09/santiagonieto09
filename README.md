@@ -15,9 +15,7 @@
 ---
 
 ## 🚀 About Me
-
-Systems Engineering, my passion is to transform ideas into robust, intuitive, and lasting web applications. I operate across the full tech stack, architecting resilient microservices and REST APIs wit[...]
-
+Systems Engineering, my passion is to transform ideas into robust, intuitive, and lasting web applications. I operate across the full tech stack, architecting resilient microservices and REST APIs with Java & Spring Boot, while bringing fluid user interfaces to life with Angular & TypeScript. Underpinning my technical skills is a firm belief that the best solutions emerge from collaboration. I'm a proactive communicator who thrives on analyzing different perspectives to synthesize a unified and superior technical strategy, always seeking the smartest path to solve a problem.
 <br>
 
 ---
