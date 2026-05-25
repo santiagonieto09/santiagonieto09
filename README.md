@@ -29,7 +29,7 @@ Systems Engineering, my passion is to transform ideas into robust, intuitive, an
 
 ### 🧩 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,symfony,angular,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=spring,symfony,angular,react,tailwind,jest" />
 </p>
 
 ### 🗄️ Databases & Tools
