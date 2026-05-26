@@ -15,7 +15,11 @@
 ---
 
 ## 🚀 About Me
-Systems Engineering, my passion is to transform ideas into robust, intuitive, and lasting web applications. I operate across the full tech stack, architecting resilient microservices and REST APIs with Java & Spring Boot, while bringing fluid user interfaces to life with Angular & TypeScript. Underpinning my technical skills is a firm belief that the best solutions emerge from collaboration. I'm a proactive communicator who thrives on analyzing different perspectives to synthesize a unified and superior technical strategy, always seeking the smartest path to solve a problem.
+Systems Engineer with 3+ years of experience designing, building, and operating full-stack enterprise solutions, with a strong emphasis on backend architecture and distributed systems applied to real-world production environments.
+I specialize in backend development and software architecture, working hands-on with microservices, event-driven communication, and clean architectural patterns. I have solid experience designing and exposing REST APIs, structuring decoupled services, and ensuring performance, maintainability, and reliability across the full software lifecycle.
+Throughout my career, I've taken ownership of architectural decisions — from requirements elicitation and system modeling to implementation and deployment — collaborating closely with stakeholders and development teams to deliver solutions aligned with business objectives.
+My technical background includes the Java/Spring Boot ecosystem, distributed architectures (Clean Architecture, Hexagonal), asynchronous messaging (RabbitMQ), containerization (Docker), relational databases (PostgreSQL, Oracle), and modern frontend frameworks (Angular, React).
+Open to international opportunities in Europe or the United States, including remote or relocation roles.
 <br>
 
 ---
